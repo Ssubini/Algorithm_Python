@@ -21,6 +21,8 @@ for tc in range(T):
                 if i == N-1:
                     flag = True
                     break
+        if flag:
+            break
 
     if flag:
         print('YES')
