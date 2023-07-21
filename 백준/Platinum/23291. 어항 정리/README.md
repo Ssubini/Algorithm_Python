@@ -8,7 +8,7 @@
 
 ### 분류
 
-구현(implementation), 시뮬레이션(simulation)
+구현, 시뮬레이션
 
 ### 문제 설명
 
@@ -28,7 +28,7 @@
 
 <p>이제 어항을 쌓는다. 먼저, 가장 왼쪽에 있는 어항을 그 어항의 오른쪽에 있는 어항의 위에 올려 놓아 <그림 3>이 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="" style="width: 339px; height: 100px;"></p>
+<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a66c6444-c761-4eab-a075-03f36f1d1a10/-/preview/" style="width: 339px; height: 100px;"></p>
 
 <p style="text-align: center;"><그림 3></p>
 
@@ -40,7 +40,7 @@
 
 <p style="text-align: center;"><그림 4></p>
 
-<p style="text-align: center;"><img alt="" src="" style="width: 197px; height: 150px;"></p>
+<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/dee1836d-7228-4b84-a790-e83e680d3629/-/preview/" style="width: 197px; height: 150px;"></p>
 
 <p style="text-align: center;"><그림 5></p>
 
@@ -66,7 +66,7 @@
 
 <p>다시 공중 부양 작업을 해야 한다. 이번에는 가운데를 중심으로 왼쪽 N/2개를 공중 부양시켜 전체를 시계 방향으로 180도 회전 시킨 다음, 오른쪽 N/2개의 위에 놓아야 한다. 이 작업은 두 번 반복해야한다. 두 번 반복하면 바닥에 있는 어항의 수는 N/4개가 된다. <그림 9>는 이 작업을 1번 했을 때, <그림 10>은 다시 한 번 더 했을 때이다.</p>
 
-<p style="text-align: center;"><img alt="" src="" style="width: 194px; height: 100px;"></p>
+<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/9288996d-9194-48df-a410-3f633f0ba232/-/preview/" style="width: 194px; height: 100px;"></p>
 
 <p style="text-align: center;"><그림 9></p>
 
@@ -76,7 +76,7 @@
 
 <p>여기서 다시 위에서 한 물고기 조절 작업을 수행하고, 바닥에 일렬로 놓는 작업을 수행한다. <그림 10>에서 조절 작업을 마친 결과는 <그림 11>이 되고, 여기서 다시 바닥에 일렬로 놓는 작업을 수행하면 <그림 12>가 된다.</p>
 
-<p style="text-align: center;"><img alt="" src="" style="width: 101px; height: 200px;"></p>
+<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/058e0bc7-cdd4-474f-9117-bf5c388f5d04/-/preview/" style="width: 101px; height: 200px;"></p>
 
 <p style="text-align: center;"><그림 11></p>
 
