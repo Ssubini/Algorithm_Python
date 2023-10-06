@@ -28,4 +28,3 @@ for _ in range(N):
 answer += len(stack)
 if checkzero : answer -= 1
 print(answer)
-
