@@ -8,7 +8,11 @@
 
 ### 분류
 
-구현(implementation), 시뮬레이션(simulation)
+구현, 시뮬레이션
+
+### 제출 일자
+
+2022년 7월 26일 23:02:28
 
 ### 문제 설명
 
@@ -28,7 +32,7 @@
 
 <p>왼쪽 그림의 상태에서 1초가 지나면 오른쪽 상태가 된다. 상어가 보고 있는 방향이 속도의 방향, 왼쪽 아래에 적힌 정수는 속력이다. 왼쪽 위에 상어를 구분하기 위해 문자를 적었다.</p>
 
-<p style="text-align: center;"><img alt="" src="" style="width: 1000px; height: 350px;"></p>
+<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/d03be3c0-057d-47f7-9808-202ae36a3da3/-/preview/" style="width: 1000px; height: 350px;"></p>
 
 <p>상어가 이동을 마친 후에 한 칸에 상어가 두 마리 이상 있을 수 있다. 이때는 크기가 가장 큰 상어가 나머지 상어를 모두 잡아먹는다.</p>
 
